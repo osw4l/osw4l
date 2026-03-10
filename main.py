@@ -137,7 +137,7 @@ def main():
     \x1b[96mPRs:          \x1b[93m{git_user_details.total_pull_requests_made}\x1b[0m
     \x1b[96mMerged PR %:  \x1b[93m{git_user_details.pull_requests_merge_percentage}\x1b[0m
     \x1b[96mContribs:     \x1b[93m{git_user_details.total_repo_contributions}\x1b[0m
-    \x1b[96mTop Langs:    \x1b[93m{', '.join(top_languages[:5])}\x1b[0m
+    \x1b[96mTop Langs:    \x1b[93mPython, Go, Elixir\x1b[0m
     """
 
     t.gen_prompt(1)
