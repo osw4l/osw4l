@@ -111,9 +111,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
-    <img width="100%" src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contributions"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+    <img width="100%" src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contributions"/>
   </picture>
 </div>
 
