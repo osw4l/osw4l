@@ -25,35 +25,15 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6&card_width=300" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=default&hide_border=true&langs_count=6&card_width=300" />
-  <img align="right" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6&card_width=300" alt="top langs"/>
-</picture>
+## `~/whoami`
 
-### `~/whoami`
-
-```bash
-$ cat profile.json
-{
-  "name":       "Oswaldo Rodriguez",
-  "role":       "Senior Backend Engineer & Tech Lead",
-  "location":   "Barcelona, Spain 🇪🇸",
-  "experience": "11+ years",
-  "current": {
-    "company":  "Capytop LLC",
-    "project":  "FlickFlow — Trading SaaS (TradingLab)",
-    "role":     "Director of Engineering"
-  },
-  "stack":    ["Python","Go","FastAPI","Django",
-               "LangChain","LangGraph","RAG","AWS","GCP"],
-  "clients":  ["EPAM x SLB","Globant x Everfi",
-               "Stocktwits","Rappi","Code & Theory"],
-  "open_to":  "Remote · Senior/Staff Backend · AI Engineering"
-}
-```
-
-<br clear="right"/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./output.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./output.gif" />
+    <img width="100%" src="./output.gif" alt="Terminal GIF"/>
+  </picture>
+</div>
 
 ---
 
