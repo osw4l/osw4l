@@ -1,138 +1,132 @@
-<!-- Animated header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Oswaldo+%F0%9F%91%8B;Senior+Backend+Engineer;Python+%C2%B7+Go+%C2%B7+FastAPI+%C2%B7+Django;AI+Agents+%C2%B7+RAG+%C2%B7+LangChain;11%2B+Years+Building+at+Scale" alt="Typing SVG" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Oswaldo%20Rodriguez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Senior%20Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Tech%20Lead&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <br/>
 
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ioswxd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/osw4l">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=osw4l&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Python+%C2%B7+Go+%C2%B7+FastAPI+%C2%B7+Django;LangChain+%C2%B7+RAG+%C2%B7+AI+Agents;AWS+%C2%B7+GCP+%C2%B7+Microservices;11%2B+Years+Building+at+Scale+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osw4l)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ioswxd@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osw4l)
+[![Profile Views](https://komarev.com/ghpvc/?username=osw4l&color=00D9FF&style=for-the-badge&label=VIEWS)](https://github.com/osw4l)
+
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=280" width="300"/>
 
-<table>
-<tr>
-<td width="55%">
+### 👨‍💻 About Me
 
 ```python
 class OswaldoRodriguez:
-
-  name       = "Oswaldo Rodriguez"
-  role       = "Senior Backend Engineer"
-               "& Tech Lead"
+  role       = "Senior Backend Engineer & Tech Lead"
   location   = "Barcelona, Spain 🇪🇸"
   experience = "11+ years"
-
-  current = {
-    "company": "Capytop LLC",
-    "project": "FlickFlow (TradingLab)",
-    "role":    "Director of Engineering",
-  }
-
-  stack = [
-    "Python", "Go", "FastAPI", "Django",
-    "LangChain", "LangGraph", "RAG",
-    "Anthropic Claude", "AWS", "GCP",
-  ]
-
-  clients = [
-    "EPAM x SLB/Schlumberger",
-    "Globant x Everfi",
-    "Stocktwits", "Rappi",
-    "Code and Theory",
-  ]
-
-  open_to = [
-    "Senior/Staff Backend",
-    "AI Engineering",
-    "Platform Engineering",
-    "Remote 🌍",
-  ]
+  current    = "FlickFlow @ Capytop (Director of Eng)"
+  stack      = ["Python","Go","FastAPI","Django",
+                "LangChain","LangGraph","RAG","AWS","GCP"]
+  clients    = ["EPAM×SLB","Globant×Everfi",
+                "Stocktwits","Rappi","Code & Theory"]
+  open_to    = "Remote Senior/Staff Backend · AI Eng"
 ```
 
-</td>
-<td width="45%" align="center">
-
-### 📊 Quick Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=osw4l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osw4l&theme=tokyonight&hide_border=true" width="100%"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🐍 Languages
+**Languages**
 
-<div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/python" width="60px" title="Python"/>
-  <img src="https://iconic-api.onrender.com/dark/golang" width="60px" title="Go"/>
-  <img src="https://iconic-api.onrender.com/dark/elixir" width="60px" title="Elixir"/>
-  <img src="https://iconic-api.onrender.com/dark/rust" width="60px" title="Rust"/>
+<div align="left">
+  <img src="https://iconic-api.onrender.com/dark/python" height="50" title="Python" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/golang" height="50" title="Go" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/elixir" height="50" title="Elixir" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/rust" height="50" title="Rust" />
 </div>
 
-### ⚡ Backend Frameworks
+<br/>
 
-<div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/fastapi" width="60px" title="FastAPI"/>
-  <img src="https://iconic-api.onrender.com/dark/django" width="60px" title="Django"/>
-  <img src="https://iconic-api.onrender.com/dark/flask" width="60px" title="Flask"/>
+**Backend Frameworks**
+
+<div align="left">
+  <img src="https://iconic-api.onrender.com/dark/fastapi" height="50" title="FastAPI" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/django" height="50" title="Django" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/flask" height="50" title="Flask" />
 </div>
 
-### 🤖 AI / Agentic Stack
+<br/>
 
-<div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white"/>
+**Databases**
+
+<div align="left">
+  <img src="https://iconic-api.onrender.com/dark/postgresql" height="50" title="PostgreSQL" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/redis" height="50" title="Redis" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/mongodb" height="50" title="MongoDB" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/elasticsearch" height="50" title="Elasticsearch" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/firebase" height="50" title="Firebase" />
 </div>
 
-### 🗄️ Databases
+<br/>
 
-<div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/postgresql" width="60px" title="PostgreSQL"/>
-  <img src="https://iconic-api.onrender.com/dark/redis" width="60px" title="Redis"/>
-  <img src="https://iconic-api.onrender.com/dark/mongodb" width="60px" title="MongoDB"/>
-  <img src="https://iconic-api.onrender.com/dark/elasticsearch" width="60px" title="Elasticsearch"/>
-  <img src="https://iconic-api.onrender.com/dark/firebase" width="60px" title="Firebase"/>
+**Cloud & DevOps**
+
+<div align="left">
+  <img src="https://iconic-api.onrender.com/dark/aws" height="50" title="AWS" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/gcp" height="50" title="GCP" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/docker" height="50" title="Docker" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/kubernetes" height="50" title="Kubernetes" />
+  &nbsp;
+  <img src="https://iconic-api.onrender.com/dark/terraform" height="50" title="Terraform" />
 </div>
 
-### ☁️ Cloud & DevOps
+<br/>
 
-<div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
-  <img src="https://iconic-api.onrender.com/dark/aws" width="60px" title="AWS"/>
-  <img src="https://iconic-api.onrender.com/dark/gcp" width="60px" title="GCP"/>
-  <img src="https://iconic-api.onrender.com/dark/docker" width="60px" title="Docker"/>
-  <img src="https://iconic-api.onrender.com/dark/kubernetes" width="60px" title="Kubernetes"/>
-  <img src="https://iconic-api.onrender.com/dark/terraform" width="60px" title="Terraform"/>
+**AI / Agentic Stack**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF8C00?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00ADD8?style=flat-square&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=osw4l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osw4l&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osw4l&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=osw4l&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" />
 </div>
 
 ---
@@ -140,38 +134,32 @@ class OswaldoRodriguez:
 ## 📈 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/>
 </div>
 
-> ⚙️ **Setup note:** The 3D graph requires a GitHub Action. Create `.github/workflows/profile-3d.yml` with the content below and it will auto-generate on push.
-
 <details>
-<summary>📋 Click to see the GitHub Action setup</summary>
+<summary>⚙️ How to enable the 3D graph — click to expand</summary>
+
+Create `.github/workflows/profile-3d.yml` in this repo:
 
 ```yaml
-# .github/workflows/profile-3d.yml
 name: GitHub-Profile-3D-Contrib
-
 on:
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
-
+    branches: [main]
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
+      - run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add -A .
@@ -179,30 +167,35 @@ jobs:
           git push
 ```
 
+Then go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** to generate it the first time.
+
 </details>
 
 ---
 
-## 📌 Key Projects
+## 📌 Featured Projects
 
-| Project | Description | Stack | Stars |
-|---|---|---|---|
-| [🏠 real-state-api](https://github.com/osw4l/real-state-api) | Uber-style route simulation using GPS coordinates to track location and speed | Django · PostGIS · Celery · Docker | ⭐ 1 |
-| [🍺 beer-tap-dispenser-api](https://github.com/osw4l/beer-tap-dispenser-api) | **100% test coverage** showcase — Django test cases best practices | Django · DRF · Pytest · Docker | — |
-| [🐳 django-docker-full](https://github.com/osw4l/django-docker-full) | Production-ready boilerplate with Celery, Elasticsearch, Channels & Redis | Django · Celery · ElasticSearch · Docker | ⭐ 13 |
-| [🎫 django-tickets-api](https://github.com/osw4l/django-tickets-api) | Best practices for file storage in external buckets via background tasks | Django · Celery · Cloudinary | — |
-| [🏦 bank-flask-api](https://github.com/osw4l/bank-flask-api) | Banking REST API | Flask · Python | ⭐ 1 |
-| [🔐 ultra-secure-api](https://github.com/osw4l/ultra-secure-api) | Security-focused REST API | Python | — |
+<div align="center">
+
+[![django-docker-full](https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-docker-full&theme=tokyonight&hide_border=true)](https://github.com/osw4l/django-docker-full)
+&nbsp;
+[![real-state-api](https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=real-state-api&theme=tokyonight&hide_border=true)](https://github.com/osw4l/real-state-api)
+
+[![beer-tap-dispenser-api](https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=beer-tap-dispenser-api&theme=tokyonight&hide_border=true)](https://github.com/osw4l/beer-tap-dispenser-api)
+&nbsp;
+[![django-tickets-api](https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-tickets-api&theme=tokyonight&hide_border=true)](https://github.com/osw4l/django-tickets-api)
+
+</div>
 
 ---
 
 ## 💼 Experience Timeline
 
-```
+```text
 2025 → Now   🏢 Capytop LLC         Director of Engineering — FlickFlow (TradingLab)
              🏢 Capytop LLC         Tech Lead — The Machine (Code and Theory) ✅
 
-2023 → 2025  🏢 EPAM Systems        Senior Backend Developer — SLB/Schlumberger
+2023 → 2025  🏢 EPAM Systems        Senior Backend Developer — SLB / Schlumberger
 2023         🏢 Stocktwits          Senior Backend Developer — Content Moderation
 
 2021 → 2022  🏢 Globant             Senior Backend Developer — Everfi / E-Learning
@@ -217,17 +210,16 @@ jobs:
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:ioswxd@gmail.com">📧 ioswxd@gmail.com</a> &nbsp;|&nbsp;
-  📱 +34 613 891 480 &nbsp;|&nbsp;
-  🎹 Piano player
-</div>
 
-<br/>
+**📫 Let's connect**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=footer"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osw4l)
+[![Gmail](https://img.shields.io/badge/ioswxd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ioswxd@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/%2B34%20613%20891%20480-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34613891480)
+
+🎹 *Also a piano player*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
 </div>
