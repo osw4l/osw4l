@@ -95,7 +95,7 @@
 |------|-------------|-------|
 | [django-docker-full](https://github.com/osw4l/django-docker-full) | Django + Docker full setup | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | [real-state-api](https://github.com/osw4l/real-state-api) | Real estate REST API | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/-DRF-A30000?style=flat-square&logoColor=white) |
-| [beer-tap-dispenser-api](https://github.com/osw4l/beer-tap-dispenser-api) | Beer tap dispenser service | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [beer-tap-dispenser-api](https://github.com/osw4l/beer-tap-dispenser-api) | Beer tap dispenser service | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [django-tickets-api](https://github.com/osw4l/django-tickets-api) | Ticket management API | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
 
 ---
