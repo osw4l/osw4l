@@ -91,41 +91,12 @@
 
 ## `~/projects --pinned`
 
-<div align="center">
-
-<a href="https://github.com/osw4l/django-docker-full">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-docker-full&theme=tokyonight&hide_border=true&title_color=ff71ce&icon_color=b967ff&text_color=01cdfe" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-docker-full&theme=default&hide_border=true&title_color=6c3483" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-docker-full&theme=tokyonight&hide_border=true&title_color=ff71ce&icon_color=b967ff&text_color=01cdfe" alt="django-docker-full"/>
-</picture>
-</a>
-&nbsp;
-<a href="https://github.com/osw4l/real-state-api">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=real-state-api&theme=tokyonight&hide_border=true&title_color=ff71ce&icon_color=b967ff&text_color=01cdfe" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=real-state-api&theme=default&hide_border=true&title_color=6c3483" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=real-state-api&theme=tokyonight&hide_border=true&title_color=ff71ce&icon_color=b967ff&text_color=01cdfe" alt="real-state-api"/>
-</picture>
-</a>
-
-<a href="https://github.com/osw4l/beer-tap-dispenser-api">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=beer-tap-dispenser-api&theme=tokyonight&hide_border=true&title_color=ff71ce&icon_color=b967ff&text_color=01cdfe" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=beer-tap-dispenser-api&theme=default&hide_border=true&title_color=6c3483" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=beer-tap-dispenser-api&theme=tokyonight&hide_border=true&title_color=ff71ce&icon_color=b967ff&text_color=01cdfe" alt="beer-tap"/>
-</picture>
-</a>
-&nbsp;
-<a href="https://github.com/osw4l/django-tickets-api">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-tickets-api&theme=tokyonight&hide_border=true&title_color=ff71ce&icon_color=b967ff&text_color=01cdfe" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-tickets-api&theme=default&hide_border=true&title_color=6c3483" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-tickets-api&theme=tokyonight&hide_border=true&title_color=ff71ce&icon_color=b967ff&text_color=01cdfe" alt="tickets-api"/>
-</picture>
-</a>
-
-</div>
+| Repo | Description | Stack |
+|------|-------------|-------|
+| [django-docker-full](https://github.com/osw4l/django-docker-full) | Django + Docker full setup | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| [real-state-api](https://github.com/osw4l/real-state-api) | Real estate REST API | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/-DRF-A30000?style=flat-square&logoColor=white) |
+| [beer-tap-dispenser-api](https://github.com/osw4l/beer-tap-dispenser-api) | Beer tap dispenser service | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| [django-tickets-api](https://github.com/osw4l/django-tickets-api) | Ticket management API | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
 
 ---
 
