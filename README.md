@@ -28,11 +28,15 @@
 ## `~/whoami`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./output.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./output.gif" />
-    <img width="100%" src="./output.gif" alt="Terminal GIF"/>
-  </picture>
+
+### 👋 Hey, I'm Oswaldo Rodriguez
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./output.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="./output.gif" />
+  <img width="100%" src="./output.gif" alt="Terminal GIF"/>
+</picture>
+
 </div>
 
 ---
@@ -137,34 +141,14 @@
 
 ---
 
-## `~/contrib --summary`
+## `~/langs --top`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osw4l&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osw4l&theme=github" />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osw4l&theme=github_dark" alt="profile details"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osw4l&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osw4l&theme=github" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osw4l&theme=github_dark" alt="repos per lang"/>
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osw4l&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osw4l&theme=github" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osw4l&theme=github_dark" alt="commits per lang"/>
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osw4l&theme=github_dark&utcOffset=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osw4l&theme=github&utcOffset=1" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osw4l&theme=github_dark&utcOffset=1" alt="productive time"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&card_width=500&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=default&hide_border=true&langs_count=10&card_width=500&count_private=true" />
+  <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&card_width=500&count_private=true" alt="top langs"/>
 </picture>
 
 </div>
