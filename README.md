@@ -1,18 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=Oswaldo%20Rodriguez&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=%3E_%20Senior%20Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Tech%20Lead&descAlignY=58&descSize=17&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Oswaldo%20Rodriguez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Tech%20Lead&descAlignY=58&descSize=17&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=Oswaldo%20Rodriguez&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=%3E_%20Senior%20Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Tech%20Lead&descAlignY=58&descSize=17&animation=fadeIn" alt="header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:003300,100:00ff41&height=150&section=header&text=Oswaldo%20Rodriguez&fontSize=48&fontColor=00ff41&fontAlignY=50&animation=scaleIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Oswaldo%20Rodriguez&fontSize=48&fontColor=ffffff&fontAlignY=50&animation=scaleIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:003300,100:00ff41&height=150&section=header&text=Oswaldo%20Rodriguez&fontSize=48&fontColor=00ff41&fontAlignY=50&animation=scaleIn" alt="header"/>
 </picture>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=%3E+initializing+profile...+%5B+DONE+%5D;%3E+loading+stack%3A+Python+%7C+Go+%7C+FastAPI+%7C+Django;%3E+ai_stack%3A+LangChain+%7C+LangGraph+%7C+RAG+%7C+MCP;%3E+cloud%3A+AWS+%7C+GCP+%7C+Kubernetes+%7C+Terraform;%3E+experience%3A+11+years+%5B+OK+%5D;%3E+status%3A+OPEN+TO+REMOTE+%5B+READY+%5D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=0f2027&background=00000000&center=true&vCenter=true&width=750&lines=%3E+initializing+profile...+%5B+DONE+%5D;%3E+loading+stack%3A+Python+%7C+Go+%7C+FastAPI+%7C+Django;%3E+ai_stack%3A+LangChain+%7C+LangGraph+%7C+RAG+%7C+MCP;%3E+cloud%3A+AWS+%7C+GCP+%7C+Kubernetes+%7C+Terraform;%3E+experience%3A+11+years+%5B+OK+%5D;%3E+status%3A+OPEN+TO+REMOTE+%5B+READY+%5D" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=%3E+initializing..." alt="typing"/>
-</picture>
+**`> Senior Backend Engineer | AI Systems | Tech Lead | 11+ years`**
 
 <br/>
 
@@ -28,15 +24,11 @@
 ## `~/whoami`
 
 <div align="center">
-
-### 👋 Hey, I'm Oswaldo Rodriguez
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="./output.gif" />
-  <img width="100%" src="./output.gif" alt="Terminal GIF"/>
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./output.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./output.gif" />
+    <img width="100%" src="./output.gif" alt="Terminal GIF"/>
+  </picture>
 </div>
 
 ---
@@ -113,6 +105,14 @@
   <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=osw4l&theme=chartreuse-dark&hide_border=true" alt="streak"/>
 </picture>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&card_width=500" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=default&hide_border=true&langs_count=10&card_width=500" />
+  <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&card_width=500" alt="top langs"/>
+</picture>
+
 </div>
 
 ---
@@ -141,47 +141,41 @@
 
 ---
 
-## `~/langs --top`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&card_width=500&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=default&hide_border=true&langs_count=10&card_width=500&count_private=true" />
-  <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&card_width=500&count_private=true" alt="top langs"/>
-</picture>
-
-</div>
-
----
-
 ## `~/projects --pinned`
 
 <div align="center">
 
+<a href="https://github.com/osw4l/django-docker-full">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-docker-full&theme=chartreuse-dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-docker-full&theme=default&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-docker-full&theme=chartreuse-dark&hide_border=true" alt="django-docker-full"/>
 </picture>
+</a>
 &nbsp;
+<a href="https://github.com/osw4l/real-state-api">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=real-state-api&theme=chartreuse-dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=real-state-api&theme=default&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=real-state-api&theme=chartreuse-dark&hide_border=true" alt="real-state-api"/>
 </picture>
+</a>
 
+<a href="https://github.com/osw4l/beer-tap-dispenser-api">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=beer-tap-dispenser-api&theme=chartreuse-dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=beer-tap-dispenser-api&theme=default&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=beer-tap-dispenser-api&theme=chartreuse-dark&hide_border=true" alt="beer-tap"/>
 </picture>
+</a>
 &nbsp;
+<a href="https://github.com/osw4l/django-tickets-api">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-tickets-api&theme=chartreuse-dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-tickets-api&theme=default&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=osw4l&repo=django-tickets-api&theme=chartreuse-dark&hide_border=true" alt="tickets-api"/>
 </picture>
+</a>
 
 </div>
 
@@ -198,9 +192,9 @@
 `🎹 also a piano player  |  🌍 open to remote`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=120&section=footer&reversal=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=120&section=footer&reversal=true" alt="footer"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&color=0:00ff41,50:003300,100:000000&height=100&section=footer&reversal=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=cylinder&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00ff41,50:003300,100:000000&height=100&section=footer&reversal=true" alt="footer"/>
 </picture>
 
 </div>
