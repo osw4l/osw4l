@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=Oswaldo%20Rodriguez&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=%3E_%20Senior%20Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Tech%20Lead&descAlignY=58&descSize=17&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=Oswaldo%20Rodriguez&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=%3E_%20Senior%20Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Tech%20Lead&descAlignY=58&descSize=17&animation=fadeIn" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Oswaldo%20Rodriguez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Tech%20Lead&descAlignY=58&descSize=17&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=Oswaldo%20Rodriguez&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=%3E_%20Senior%20Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Tech%20Lead&descAlignY=58&descSize=17&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=Oswaldo%20Rodriguez&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=%3E_%20Senior%20Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Tech%20Lead&descAlignY=58&descSize=17&animation=fadeIn" alt="header"/>
 </picture>
 
 <br/>
@@ -38,15 +38,6 @@
 ---
 
 ## `~/stack --list`
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Backend
 
@@ -223,9 +214,9 @@
 `🎹 also a piano player  |  🌍 open to remote`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:003300,100:000000&height=120&section=footer&reversal=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=120&section=footer&reversal=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:003300,100:000000&height=120&section=footer&reversal=true" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=120&section=footer&reversal=true" alt="footer"/>
 </picture>
 
 </div>
