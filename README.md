@@ -22,6 +22,36 @@
 
 ---
 
+## `~/stats --metrics`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=osw4l&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b967ff&icon_color=01cdfe&text_color=c9d1d9&ring_color=ff71ce&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=osw4l&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=osw4l&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b967ff&icon_color=01cdfe&text_color=c9d1d9&ring_color=ff71ce&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=osw4l&theme=tokyonight&hide_border=true&background=0d1117&ring=ff71ce&fire=01cdfe&currStreakLabel=b967ff&sideLabels=b967ff&dates=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=osw4l&theme=default&hide_border=true" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=osw4l&theme=tokyonight&hide_border=true&background=0d1117&ring=ff71ce&fire=01cdfe&currStreakLabel=b967ff&sideLabels=b967ff&dates=c9d1d9" alt="GitHub Streak"/>
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b967ff&text_color=c9d1d9&langs_count=10&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=default&hide_border=true&langs_count=10&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b967ff&text_color=c9d1d9&langs_count=10&count_private=true" alt="Top Languages"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=osw4l&bg_color=0d1117&color=b967ff&line=01cdfe&point=ff71ce&area_color=1a1b3a&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=osw4l&theme=github-compact&hide_border=true&area=true" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=osw4l&bg_color=0d1117&color=b967ff&line=01cdfe&point=ff71ce&area_color=1a1b3a&area=true&hide_border=true" alt="Activity Graph"/>
+  </picture>
+</div>
+
+---
+
 ## `~/stack --weapons`
 
 #### Languages
@@ -77,13 +107,13 @@
 
 ---
 
-## `~/contrib --3d`
+## `~/contrib --3d-season`
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-customize.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-customize.svg" />
-    <img width="100%" src="./profile-3d-contrib/profile-customize.svg" alt="3D Contributions"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+    <img width="100%" src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contributions"/>
   </picture>
 </div>
 

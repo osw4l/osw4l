@@ -1,9 +1,38 @@
 {
-  "contributionColorArray": [
+  "type": "season",
+  "fileName": "profile-season-animate.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#c9d1d9",
+  "strongColor": "#01cdfe",
+  "weakColor": "#6c3483",
+  "radarColor": "#b967ff",
+  "growingAnimation": true,
+  "contribColors1": [
     "#1a1b3a",
+    "#0a7e8c",
+    "#0db8c9",
+    "#01cdfe",
+    "#7df9ff"
+  ],
+  "contribColors2": [
+    "#1a1b3a",
+    "#4a1a6b",
     "#6c3483",
     "#b967ff",
+    "#d4a5ff"
+  ],
+  "contribColors3": [
+    "#1a1b3a",
+    "#2a2b4a",
+    "#3a3b5a",
+    "#4a4b6a",
+    "#6a6b8a"
+  ],
+  "contribColors4": [
+    "#1a1b3a",
+    "#8a2050",
+    "#c73e7c",
     "#ff71ce",
-    "#01cdfe"
+    "#ffa5e0"
   ]
 }
