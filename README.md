@@ -76,13 +76,17 @@ $ cat profile.json
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -130,9 +134,9 @@ $ cat profile.json
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
-    <img width="100%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-customize.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-customize.svg" />
+    <img width="100%" src="./profile-3d-contrib/profile-customize.svg" alt="3D Contributions"/>
   </picture>
 </div>
 
@@ -149,6 +153,8 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -158,10 +164,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: '{"contributionColorArray":["#003300","#005500","#007700","#00aa00","#00ff41"]}'
+          SETTING_JSON: setting.json
       - run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
+          git config user.email "osw4l@users.noreply.github.com"
+          git config user.name "osw4l"
           git add -A .
           git commit -m "chore: update 3d contrib" || exit 0
           git push
