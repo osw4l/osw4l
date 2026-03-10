@@ -1,12 +1,12 @@
-<!-- Header animado -->
+<!-- Animated header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Oswaldo+%F0%9F%91%8B;Senior+Backend+Engineer;Python+%C2%B7+Go+%C2%B7+FastAPI+%C2%B7+Django;AI+Agents+%C2%B7+RAG+%C2%B7+LangChain;11%2B+Years+Building+at+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Oswaldo+%F0%9F%91%8B;Senior+Backend+Engineer;Python+%C2%B7+Go+%C2%B7+FastAPI+%C2%B7+Django;AI+Agents+%C2%B7+RAG+%C2%B7+LangChain;11%2B+Years+Building+at+Scale" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/oswaldo-rodriguez-dev" target="_blank">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ioswxd@gmail.com">
@@ -22,88 +22,109 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="55%">
+
 ```python
 class OswaldoRodriguez:
-    name       = "Oswaldo Rodriguez"
-    role       = "Senior Backend Engineer & Tech Lead"
-    location   = "Barcelona, Spain 🇪🇸"
-    experience = "11+ years"
 
-    current    = {
-        "company": "Capytop LLC",
-        "project": "FlickFlow — Multi-market Trading SaaS (TradingLab)",
-        "role":    "Director of Engineering"
-    }
+  name       = "Oswaldo Rodriguez"
+  role       = "Senior Backend Engineer"
+               "& Tech Lead"
+  location   = "Barcelona, Spain 🇪🇸"
+  experience = "11+ years"
 
-    stack = ["Python", "Go", "FastAPI", "Django", "LangChain",
-             "LangGraph", "RAG", "Anthropic Claude", "AWS", "GCP"]
+  current = {
+    "company": "Capytop LLC",
+    "project": "FlickFlow (TradingLab)",
+    "role":    "Director of Engineering",
+  }
 
-    highlight_clients = ["EPAM x SLB/Schlumberger", "Globant x Everfi",
-                         "Stocktwits", "Rappi", "Code and Theory"]
+  stack = [
+    "Python", "Go", "FastAPI", "Django",
+    "LangChain", "LangGraph", "RAG",
+    "Anthropic Claude", "AWS", "GCP",
+  ]
 
-    open_to   = ["Senior/Staff Backend", "AI Engineering",
-                 "Platform Engineering", "Remote"]
+  clients = [
+    "EPAM x SLB/Schlumberger",
+    "Globant x Everfi",
+    "Stocktwits", "Rappi",
+    "Code and Theory",
+  ]
+
+  open_to = [
+    "Senior/Staff Backend",
+    "AI Engineering",
+    "Platform Engineering",
+    "Remote 🌍",
+  ]
 ```
+
+</td>
+<td width="45%" align="center">
+
+### 📊 Quick Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=osw4l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osw4l&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🐍 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-</p>
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/python" width="60px" title="Python"/>
+  <img src="https://iconic-api.onrender.com/dark/golang" width="60px" title="Go"/>
+  <img src="https://iconic-api.onrender.com/dark/elixir" width="60px" title="Elixir"/>
+  <img src="https://iconic-api.onrender.com/dark/rust" width="60px" title="Rust"/>
+</div>
 
 ### ⚡ Backend Frameworks
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-</p>
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/fastapi" width="60px" title="FastAPI"/>
+  <img src="https://iconic-api.onrender.com/dark/django" width="60px" title="Django"/>
+  <img src="https://iconic-api.onrender.com/dark/flask" width="60px" title="Flask"/>
+</div>
 
 ### 🤖 AI / Agentic Stack
-<p>
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osw4l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osw4l&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osw4l&theme=tokyonight&hide_border=true" height="180"/>
+### 🗄️ Databases
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/postgresql" width="60px" title="PostgreSQL"/>
+  <img src="https://iconic-api.onrender.com/dark/redis" width="60px" title="Redis"/>
+  <img src="https://iconic-api.onrender.com/dark/mongodb" width="60px" title="MongoDB"/>
+  <img src="https://iconic-api.onrender.com/dark/elasticsearch" width="60px" title="Elasticsearch"/>
+  <img src="https://iconic-api.onrender.com/dark/firebase" width="60px" title="Firebase"/>
+</div>
+
+### ☁️ Cloud & DevOps
+
+<div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
+  <img src="https://iconic-api.onrender.com/dark/aws" width="60px" title="AWS"/>
+  <img src="https://iconic-api.onrender.com/dark/gcp" width="60px" title="GCP"/>
+  <img src="https://iconic-api.onrender.com/dark/docker" width="60px" title="Docker"/>
+  <img src="https://iconic-api.onrender.com/dark/kubernetes" width="60px" title="Kubernetes"/>
+  <img src="https://iconic-api.onrender.com/dark/terraform" width="60px" title="Terraform"/>
 </div>
 
 ---
@@ -116,11 +137,49 @@ class OswaldoRodriguez:
 
 ---
 
-## 📈 Contribution Graph
+## 📈 3D Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osw4l&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
+
+> ⚙️ **Setup note:** The 3D graph requires a GitHub Action. Create `.github/workflows/profile-3d.yml` with the content below and it will auto-generate on push.
+
+<details>
+<summary>📋 Click to see the GitHub Action setup</summary>
+
+```yaml
+# .github/workflows/profile-3d.yml
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "generate 3d contrib" || exit 0
+          git push
+```
+
+</details>
 
 ---
 
@@ -128,11 +187,11 @@ class OswaldoRodriguez:
 
 | Project | Description | Stack | Stars |
 |---|---|---|---|
-| [🏠 real-state-api](https://github.com/osw4l/real-state-api) | Uber-style route simulation using GPS coordinates for location & speed tracking | Django · PostGIS · Celery · Docker | ⭐ 1 |
+| [🏠 real-state-api](https://github.com/osw4l/real-state-api) | Uber-style route simulation using GPS coordinates to track location and speed | Django · PostGIS · Celery · Docker | ⭐ 1 |
 | [🍺 beer-tap-dispenser-api](https://github.com/osw4l/beer-tap-dispenser-api) | **100% test coverage** showcase — Django test cases best practices | Django · DRF · Pytest · Docker | — |
-| [🐳 django-docker-full](https://github.com/osw4l/django-docker-full) | Production-ready Django boilerplate with Celery, Elasticsearch, Channels & Redis | Django · Celery · ElasticSearch · Docker | ⭐ 13 |
-| [🎫 django-tickets-api](https://github.com/osw4l/django-tickets-api) | Best practices for managing files in external buckets via background tasks | Django · Celery · Cloudinary | — |
-| [🏦 bank-flask-api](https://github.com/osw4l/bank-flask-api) | Banking API with Flask | Flask · Python | ⭐ 1 |
+| [🐳 django-docker-full](https://github.com/osw4l/django-docker-full) | Production-ready boilerplate with Celery, Elasticsearch, Channels & Redis | Django · Celery · ElasticSearch · Docker | ⭐ 13 |
+| [🎫 django-tickets-api](https://github.com/osw4l/django-tickets-api) | Best practices for file storage in external buckets via background tasks | Django · Celery · Cloudinary | — |
+| [🏦 bank-flask-api](https://github.com/osw4l/bank-flask-api) | Banking REST API | Flask · Python | ⭐ 1 |
 | [🔐 ultra-secure-api](https://github.com/osw4l/ultra-secure-api) | Security-focused REST API | Python | — |
 
 ---
@@ -161,7 +220,7 @@ class OswaldoRodriguez:
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/oswaldo-rodriguez-dev">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:ioswxd@gmail.com">📧 ioswxd@gmail.com</a> &nbsp;|&nbsp;
   📱 +34 613 891 480 &nbsp;|&nbsp;
   🎹 Piano player
