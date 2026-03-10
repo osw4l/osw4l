@@ -26,7 +26,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GIFOS_GENERAL_FPS: 13
           GIFOS_GENERAL_LOOP_COUNT: 0
-          GIFOS_GENERAL_COLOR_SCHEME: "everblush"
+          GIFOS_GENERAL_COLOR_SCHEME: "dracula"
 
       - name: Commit & Push
         run: |
