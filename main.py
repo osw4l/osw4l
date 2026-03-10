@@ -5,11 +5,10 @@ from zoneinfo import ZoneInfo
 
 FONT_FILE_LOGO = "./fonts/vtks-blocketo.regular.ttf"
 FONT_FILE_BITMAP = "./fonts/gohufont-uni-14.pil"
-FONT_FILE_MONA = "./fonts/Inversionz.otf"
 
 
 def main():
-    t = gifos.Terminal(750, 500, 15, 15, FONT_FILE_BITMAP, 15)
+    t = gifos.Terminal(750, 380, 15, 15, FONT_FILE_BITMAP, 15)
 
     t.gen_text("", 1, count=20)
     t.toggle_show_cursor(False)
@@ -82,41 +81,8 @@ def main():
     t.gen_typing_text(" -u osw4l", 7, contin=True)
 
     git_user_details = gifos.utils.fetch_github_stats("osw4l")
-    top_languages = [lang[0] for lang in git_user_details.languages_sorted]
 
     t.clear_frame()
-
-    # Mona Lisa ASCII
-    t.set_font(FONT_FILE_MONA, 16, 0)
-    t.toggle_show_cursor(False)
-    monaLines = r"""
-    \x1b[49m     \x1b[90;100m}}\x1b[49m     \x1b[90;100m}}\x1b[0m
-    \x1b[49m    \x1b[90;100m}}}}\x1b[49m   \x1b[90;100m}}}}\x1b[0m
-    \x1b[49m    \x1b[90;100m}}}}}\x1b[49m \x1b[90;100m}}}}}\x1b[0m
-    \x1b[49m   \x1b[90;100m}}}}}}}}}}}}}\x1b[0m
-    \x1b[49m   \x1b[90;100m}}}}}}}}}}}}}}\x1b[0m
-    \x1b[49m   \x1b[90;100m}}\x1b[37;47m}}}}}}}\x1b[90;100m}}}}}\x1b[0m
-    \x1b[49m  \x1b[90;100m}}\x1b[37;47m}}}}}}}}}}\x1b[90;100m}}}\x1b[0m
-    \x1b[49m  \x1b[90;100m}}\x1b[37;47m}\x1b[90;100m}\x1b[37;47m}}}}}\x1b[90;100m}\x1b[37;47m}}\x1b[90;100m}}}}\x1b[0m
-    \x1b[49m  \x1b[90;100m}\x1b[37;47m}}\x1b[90;100m}\x1b[37;47m}}}}}\x1b[90;100m}\x1b[37;47m}}}\x1b[90;100m}}}\x1b[0m
-    \x1b[90;100m}}}\x1b[37;47m}}}}\x1b[90;100m}}}\x1b[37;47m}}}}}\x1b[90;100m}}}}\x1b[0m
-    \x1b[49m  \x1b[90;100m}\x1b[37;47m}}}}}\x1b[90;100m}}\x1b[37;47m}}}}}\x1b[90;100m}}}\x1b[0m
-    \x1b[49m \x1b[90;100m}}\x1b[37;47m}}}}}}}}}}}}\x1b[90;100m}}}\x1b[0m
-    \x1b[90;100m}\x1b[49m  \x1b[90;100m}}\x1b[37;47m}}}}}}}}\x1b[90;100m}}}\x1b[49m  \x1b[90;100m}\x1b[0m
-    \x1b[49m        \x1b[90;100m}}}}}\x1b[0m
-    \x1b[49m       \x1b[90;100m}}}}}}}\x1b[0m
-    \x1b[49m       \x1b[90;100m}}}}}}}}\x1b[0m
-    \x1b[49m      \x1b[90;100m}}}}}}}}}}\x1b[0m
-    \x1b[49m     \x1b[90;100m}}}}}}}}}}}\x1b[0m
-    \x1b[49m     \x1b[90;100m}}}}}}}}}}}}\x1b[0m
-    \x1b[49m     \x1b[90;100m}}\x1b[49m \x1b[90;100m}}}}}}\x1b[49m \x1b[90;100m}}\x1b[0m
-    \x1b[49m        \x1b[90;100m}}}}}}}\x1b[0m
-    \x1b[49m         \x1b[90;100m}}}\x1b[49m \x1b[90;100m}}\x1b[0m
-    """
-    t.gen_text(monaLines, 10)
-
-    t.set_font(FONT_FILE_BITMAP)
-    t.toggle_show_cursor(True)
 
     user_details_lines = f"""
     \x1b[30;102mosw4l@GitHub\x1b[0m
@@ -150,7 +116,7 @@ def main():
     t.gen_typing_text(" -u osw4l", 1, contin=True)
 
     t.toggle_show_cursor(False)
-    t.gen_text(user_details_lines, 2, 35, count=5, contin=True)
+    t.gen_text(user_details_lines, 3, 1, count=5, contin=True)
     t.gen_prompt(t.curr_row)
     t.toggle_show_cursor(True)
     t.gen_typing_text(

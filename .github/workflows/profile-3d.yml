@@ -22,4 +22,5 @@ jobs:
           git config user.name "osw4l"
           git add -A .
           git commit -m "chore: update 3d contrib" || exit 0
+          git pull --rebase
           git push

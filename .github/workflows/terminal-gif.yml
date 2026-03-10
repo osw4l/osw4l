@@ -34,4 +34,5 @@ jobs:
           git config user.name "osw4l"
           git add output.gif
           git commit -m "chore: update terminal gif" || exit 0
+          git pull --rebase
           git push
