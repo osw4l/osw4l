@@ -14,10 +14,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: '{"contributionColorArray":["#003300","#005500","#007700","#00aa00","#00ff41"]}'
+          SETTING_JSON: setting.json
       - run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
+          git config user.email "osw4l@users.noreply.github.com"
+          git config user.name "osw4l"
           git add -A .
           git commit -m "chore: update 3d contrib" || exit 0
           git push
