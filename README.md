@@ -134,47 +134,11 @@ $ cat profile.json
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
-    <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img width="100%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
   </picture>
 </div>
-
-<details>
-<summary><code>⚙️ setup 3D graph → click to expand</code></summary>
-
-Create `.github/workflows/profile-3d.yml`:
-
-```yaml
-name: GitHub-Profile-3D-Contrib
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-permissions:
-  contents: write
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - run: |
-          git config user.email "osw4l@users.noreply.github.com"
-          git config user.name "osw4l"
-          git add -A .
-          git commit -m "chore: update 3d contrib" || exit 0
-          git push
-```
-
-Go to **Actions → Run workflow** to generate the first time.
-
-</details>
 
 ---
 
