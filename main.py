@@ -88,9 +88,9 @@ def main():
     \x1b[30;102mosw4l@GitHub\x1b[0m
     --------------
     \x1b[96mRole:     \x1b[93mSenior Backend Engineer & Tech Lead\x1b[0m
-    \x1b[96mCompany:  \x1b[93mCapytop LLC (Director of Engineering)\x1b[0m
+    \x1b[96mCompany:  \x1b[93mCapytop (Director of Engineering)\x1b[0m
     \x1b[96mProject:  \x1b[93mFlickFlow - Trading SaaS\x1b[0m
-    \x1b[96mLocation: \x1b[93mBarcelona, Spain\x1b[0m
+    \x1b[96mLocation: \x1b[93mTarragona, Spain\x1b[0m
     \x1b[96mExp:      \x1b[93m11+ years\x1b[0m
     \x1b[96mStack:    \x1b[93mPython | Go | Elixir | Rust\x1b[0m
     \x1b[96mAI:       \x1b[93mLangChain | LangGraph | RAG | MCP\x1b[0m
