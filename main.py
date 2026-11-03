@@ -100,12 +100,8 @@ def main():
     \x1b[96m           \x1b[93mElixir | React | Swift | Kotlin\x1b[0m
 
     \x1b[30;102mGitHub Stats:\x1b[0m
-    \x1b[96mRating:       \x1b[93m{git_user_details.user_rank.level}\x1b[0m
-    \x1b[96mStars:        \x1b[93m{git_user_details.total_stargazers}\x1b[0m
-    \x1b[96mCommits ({int(year_now) - 1}): \x1b[93m{git_user_details.total_commits_last_year}\x1b[0m
-    \x1b[96mPRs:          \x1b[93m{git_user_details.total_pull_requests_made}\x1b[0m
-    \x1b[96mContribs:     \x1b[93m{git_user_details.total_repo_contributions}\x1b[0m
-    \x1b[96mTop Langs:    \x1b[93mPython, Go, Elixir\x1b[0m
+    \x1b[96mCommits ({int(year_now) - 1}):\x1b[0m \x1b[93m{git_user_details.total_commits_last_year}\x1b[0m   \x1b[96mPRs:\x1b[0m \x1b[93m{git_user_details.total_pull_requests_made}\x1b[0m
+    \x1b[96mContributions:\x1b[0m \x1b[93m{git_user_details.total_repo_contributions}\x1b[0m   \x1b[96mMerge %:\x1b[0m \x1b[93m{git_user_details.pull_requests_merge_percentage}\x1b[0m
     """
 
     t.gen_prompt(1)
