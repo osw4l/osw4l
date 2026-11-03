@@ -92,23 +92,18 @@ def main():
     \x1b[96mWebsite:  \x1b[93mhttps://joywareteam.com\x1b[0m
     \x1b[96mLocation: \x1b[93mTarragona, Spain\x1b[0m
     \x1b[96mExp:      \x1b[93m11+ years\x1b[0m
-    \x1b[96mStack:    \x1b[93mPython | Go | Elixir | Rust\x1b[0m
-    \x1b[96mAI:       \x1b[93mLangChain | LangGraph | RAG | MCP\x1b[0m
 
     \x1b[30;102mFeatured Projects:\x1b[0m
-    --------------
-    \x1b[96mFlickflow:  \x1b[93mMulti-market trading SaaS\x1b[0m
-    \x1b[96m            \x1b[93mDjango | Elixir | Rust | Go | K8s\x1b[0m
-    \x1b[96mTopbase:    \x1b[93mJoyware's SaaS product\x1b[0m
-    \x1b[96m            \x1b[93mReact | Elixir | HeroUI\x1b[0m
+    \x1b[96mFlickflow:\x1b[0m \x1b[93mMulti-market trading SaaS · 20+ microservices\x1b[0m
+    \x1b[96m           \x1b[93mPython | Go | Node | Elixir | Rust | K8s\x1b[0m
+    \x1b[96mTopbase:\x1b[0m   \x1b[93mJoyware's SaaS product\x1b[0m
+    \x1b[96m           \x1b[93mElixir | React | Swift | Kotlin\x1b[0m
 
     \x1b[30;102mGitHub Stats:\x1b[0m
-    --------------
     \x1b[96mRating:       \x1b[93m{git_user_details.user_rank.level}\x1b[0m
     \x1b[96mStars:        \x1b[93m{git_user_details.total_stargazers}\x1b[0m
     \x1b[96mCommits ({int(year_now) - 1}): \x1b[93m{git_user_details.total_commits_last_year}\x1b[0m
     \x1b[96mPRs:          \x1b[93m{git_user_details.total_pull_requests_made}\x1b[0m
-    \x1b[96mMerged PR %:  \x1b[93m{git_user_details.pull_requests_merge_percentage}\x1b[0m
     \x1b[96mContribs:     \x1b[93m{git_user_details.total_repo_contributions}\x1b[0m
     \x1b[96mTop Langs:    \x1b[93mPython, Go, Elixir\x1b[0m
     """
@@ -127,7 +122,7 @@ def main():
     t.gen_prompt(t.curr_row)
     t.toggle_show_cursor(True)
     t.gen_typing_text(
-        "\x1b[92m# Building the future with Joyware | AI & Backend Systems",
+        "\x1b[92m# Building the future with Joyware",
         t.curr_row,
         contin=True,
     )
