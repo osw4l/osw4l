@@ -33,10 +33,6 @@
 - Joyware's SaaS product
 - **Stack:** React, Elixir, HeroUI
 
-**CapyCoin**
-- Native mobile app
-- **Stack:** iOS (Swift), Android (Kotlin)
-
 ---
 
 ## `~/stats --metrics`

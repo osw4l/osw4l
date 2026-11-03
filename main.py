@@ -101,8 +101,6 @@ def main():
     \x1b[96m            \x1b[93mDjango | Elixir | Rust | Go | K8s\x1b[0m
     \x1b[96mTopbase:    \x1b[93mJoyware's SaaS product\x1b[0m
     \x1b[96m            \x1b[93mReact | Elixir | HeroUI\x1b[0m
-    \x1b[96mCapyCoin:   \x1b[93mNative mobile app\x1b[0m
-    \x1b[96m            \x1b[93miOS (Swift) | Android (Kotlin)\x1b[0m
 
     \x1b[30;102mGitHub Stats:\x1b[0m
     --------------
