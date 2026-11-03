@@ -1,0 +1,27 @@
+name: GitHub-Profile-3D-Contrib
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: setting.json
+      - run: |
+          git config user.email "osw4l@users.noreply.github.com"
+          git config user.name "osw4l"
+          git add -A .
+          git commit -m "chore: update 3d contrib" || exit 0
+          git pull --rebase -X theirs || (git checkout --theirs . && git add -A . && git rebase --continue)
+          git push

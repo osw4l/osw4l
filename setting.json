@@ -1,0 +1,20 @@
+{
+  "type": "rainbow",
+  "fileName": "profile-custom-rainbow.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#c9d1d9",
+  "strongColor": "#01cdfe",
+  "weakColor": "#6c3483",
+  "radarColor": "#b967ff",
+  "growingAnimation": true,
+  "saturation": "70%",
+  "contribLightness": [
+    "15%",
+    "30%",
+    "45%",
+    "55%",
+    "65%"
+  ],
+  "duration": "10s",
+  "hueRatio": -7
+}
